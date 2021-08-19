@@ -1,0 +1,12 @@
+[
+ {
+ 	"listing":[{
+ 	"id":"Listing.id",
+ 	"address":"Listing.address",
+ 	"beds":"Listing.beds",
+ 	"baths":"Listing.baths",
+ 	"price":"Listing.price"
+ 	}]
+ 	
+ }
+]
